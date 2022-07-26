@@ -1,8 +1,8 @@
-  <h3 align="center"> CONSOLIDATED GRADE REPORT </h3>
-  <br />
-  
-  <p aligh = "center"> <a href="#">View Demo</a>
-  <small align="center"> For academic office stuff use only </small>
 
+  <h3 align="center">CONSOLIDATED GRADE REPORT</h3>
+
+  <p align="center">
+    For Acadamic office staff use only!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo»</strong></a>
   </p>
-  
